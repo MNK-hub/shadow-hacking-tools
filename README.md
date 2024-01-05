@@ -16,10 +16,14 @@ works on any of the following operating systems:
 • Unix
 
 # How to Install
-* Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/MNK-hub/shadow-hacking-tools>`
-* `<cd shadow-hacking-tools>`
-* `<bash shadow.sh>`
+
+* Open the terminal and type $ pkg install git 
+
+* Then $ git clone https://github.com/MNK-hub/shadow-hacking-tools 
+
+* $ cd shadow-hacking-tools
+
+* $ bash shadow.sh
 
 
 # Warning
